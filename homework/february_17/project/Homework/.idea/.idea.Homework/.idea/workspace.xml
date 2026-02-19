@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119741eb-f157-4160-a829-1199b03ffefc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/ref/Homework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/ref/Homework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/refint/Homework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/refint/Homework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Homework.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;DiegoM&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Homework.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Homework" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -80,6 +76,8 @@
       <workItem from="1771358868680" duration="170000" />
       <workItem from="1771373059693" duration="68000" />
       <workItem from="1771373875831" duration="1014000" />
+      <workItem from="1771374968926" duration="414000" />
+      <workItem from="1771375448825" duration="1895000" />
     </task>
     <servers />
   </component>

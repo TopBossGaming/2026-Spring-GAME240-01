@@ -1,0 +1,15 @@
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\bin\Debug\net8.0\CalculatorFeb19.exe
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\bin\Debug\net8.0\CalculatorFeb19.deps.json
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\bin\Debug\net8.0\CalculatorFeb19.runtimeconfig.json
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\bin\Debug\net8.0\CalculatorFeb19.dll
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\bin\Debug\net8.0\CalculatorFeb19.pdb
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.AssemblyInfoInputs.cache
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.AssemblyInfo.cs
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.csproj.CoreCompileInputs.cache
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.sourcelink.json
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.dll
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\refint\CalculatorFeb19.dll
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.pdb
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\CalculatorFeb19.genruntimeconfig.cache
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\february_19\project\CalculatorFeb19\CalculatorFeb19\obj\Debug\net8.0\ref\CalculatorFeb19.dll
