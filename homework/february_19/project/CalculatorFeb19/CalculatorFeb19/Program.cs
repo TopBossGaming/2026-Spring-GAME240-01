@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 
 // Create the variables that will be used throughout the program
 
-float numberOne;
-float numberTwo;
+int numberOne;
+int numberTwo;
 string value1;
 string value2;
 
-float answer = 0;
+int answer = 0;
 
 // Asking the user for what they want to do as well as including what they need to type in
 Console.WriteLine("What calculation would you like me to do? (add/sub/div/mult)");
@@ -30,8 +30,8 @@ if (mathEquation == "add")
     Console.WriteLine("What number shall be added?");
     value2 = Console.ReadLine();
     
-    numberOne = float.Parse(value1);
-    numberTwo = float.Parse(value2);
+    numberOne = int.Parse(value1);
+    numberTwo = int.Parse(value2);
     
     answer = numberOne + numberTwo;
     
@@ -45,8 +45,8 @@ else if (mathEquation == "sub")
     Console.WriteLine("What number shall be subtracted?");
     value2 = Console.ReadLine();
     
-    numberOne = float.Parse(value1);
-    numberTwo = float.Parse(value2);
+    numberOne = int.Parse(value1);
+    numberTwo = int.Parse(value2);
     
     answer = numberOne - numberTwo;
     
@@ -60,12 +60,16 @@ else if (mathEquation == "div")
     Console.WriteLine("What number shall it be divided by?");
     value2 = Console.ReadLine();
     
-    numberOne = float.Parse(value1);
-    numberTwo = float.Parse(value2);
+    //Special code is needed because of floats being used only for division
     
-    answer = numberOne / numberTwo;
+    float numOne = float.Parse(value1);
+    float numTwo = float.Parse(value2);
+
+    float fAnswer;
     
-    Console.WriteLine("Your answer is " + answer);
+    fAnswer = (numOne / numTwo);
+    
+    Console.WriteLine("Your answer is " + fAnswer);
 }
 else if (mathEquation == "multi")
 {
@@ -75,8 +79,8 @@ else if (mathEquation == "multi")
     Console.WriteLine("What number shall it be multiplied by?");
     value2 = Console.ReadLine();
     
-    numberOne = float.Parse(value1);
-    numberTwo = float.Parse(value2);
+    numberOne = int.Parse(value1);
+    numberTwo = int.Parse(value2);
     
     answer = numberOne * numberTwo;
     
