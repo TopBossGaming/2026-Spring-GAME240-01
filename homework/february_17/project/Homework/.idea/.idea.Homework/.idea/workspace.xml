@@ -4,12 +4,7 @@
     <projectFile>Homework/Homework.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="119741eb-f157-4160-a829-1199b03ffefc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/obj/rider.project.model.nuget.info" afterDir="false" />
-    </list>
+    <list default="true" id="119741eb-f157-4160-a829-1199b03ffefc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +75,7 @@
       <workItem from="1771977556780" duration="746000" />
       <workItem from="1771978409995" duration="962000" />
       <workItem from="1771981189921" duration="779000" />
+      <workItem from="1772582834580" duration="7000" />
     </task>
     <servers />
   </component>
