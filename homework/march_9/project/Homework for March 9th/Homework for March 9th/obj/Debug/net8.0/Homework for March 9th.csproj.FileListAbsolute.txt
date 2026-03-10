@@ -1,0 +1,15 @@
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.AssemblyInfoInputs.cache
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.AssemblyInfo.cs
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.csproj.CoreCompileInputs.cache
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.sourcelink.json
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\bin\Debug\net8.0\Homework for March 9th.exe
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\bin\Debug\net8.0\Homework for March 9th.deps.json
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\bin\Debug\net8.0\Homework for March 9th.runtimeconfig.json
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\bin\Debug\net8.0\Homework for March 9th.dll
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\bin\Debug\net8.0\Homework for March 9th.pdb
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.dll
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\refint\Homework for March 9th.dll
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.pdb
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\Homework for March 9th.genruntimeconfig.cache
+C:\Users\ninja\OneDrive\Documents\GitHub\2026-Spring-GAME240-01\homework\march_9\project\Homework for March 9th\Homework for March 9th\obj\Debug\net8.0\ref\Homework for March 9th.dll
