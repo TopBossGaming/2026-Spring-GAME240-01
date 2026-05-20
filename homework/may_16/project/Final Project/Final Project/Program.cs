@@ -233,6 +233,7 @@ while (end == false)
             else
             {
                 Console.WriteLine("You take the air and stuff it into your pocket");
+                Console.WriteLine("You can't take " + additionalInfo);
             }
         }
         else if (command == "use")
@@ -264,6 +265,7 @@ while (end == false)
             else
             {
                 Console.WriteLine("You use your brain and come up with nothing worth while");
+                Console.WriteLine("You can't use " + additionalInfo + " here");
             }
         }
         else
